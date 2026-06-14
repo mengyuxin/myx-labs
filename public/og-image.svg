@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0d0c"/>
+  <path d="M0 126h1200M0 252h1200M0 378h1200M0 504h1200M240 0v630M480 0v630M720 0v630M960 0v630" stroke="#242824"/>
+  <circle cx="1010" cy="120" r="9" fill="#d8ff3e"/>
+  <text x="80" y="245" fill="#f2f4ec" font-family="Arial,sans-serif" font-weight="700" font-size="132">MYX LABS</text>
+  <text x="86" y="340" fill="#d8ff3e" font-family="monospace" font-size="34">DIGITAL EXPERIMENTS / 2026</text>
+  <text x="86" y="510" fill="#8d948b" font-family="Arial,sans-serif" font-size="28">BUILD · OBSERVE · ITERATE</text>
+</svg>
