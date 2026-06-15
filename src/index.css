@@ -24,10 +24,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background:
-    linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
     #0b0d0c;
-  background-size: 80px 80px;
 }
 
 body,
@@ -76,11 +73,9 @@ img {
 }
 
 .eyebrow,
-.hero-kicker,
-.project-meta,
 .tag-list,
 .header-status,
-.brand small {
+.hero-stats {
   font-family: 'DM Mono', monospace;
   letter-spacing: 0.08em;
 }
