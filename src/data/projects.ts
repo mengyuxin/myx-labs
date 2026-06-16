@@ -82,4 +82,20 @@ export const projects: Project[] = [
     accent: '#ff775f',
     imagePosition: 'center top',
   },
+  {
+    id: 'url-decoder',
+    index: '05',
+    title: 'URL Decoder',
+    englishTitle: 'SharePoint URL Decoder',
+    description:
+      '一个中日双语的 SharePoint URL 解码工具。粘贴复杂链接后自动还原转义字符，并生成更容易阅读和分享的简化 URL。',
+    category: 'Utility',
+    tags: ['URL TOOL', 'SHAREPOINT', 'BILINGUAL'],
+    year: '2026',
+    status: 'LIVE',
+    url: 'https://myx-url.netlify.app',
+    image: '/projects/url-decoder.jpg',
+    accent: '#5fc6b2',
+    imagePosition: 'center top',
+  },
 ]
