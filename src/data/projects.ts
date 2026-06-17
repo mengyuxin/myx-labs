@@ -114,4 +114,20 @@ export const projects: Project[] = [
     accent: '#f4c86a',
     imagePosition: 'center top',
   },
+  {
+    id: 'note',
+    index: '07',
+    title: '留白',
+    englishTitle: 'MYX Note',
+    description:
+      '一个私密的浏览器笔记工作区。支持快速搜索、新建、置顶、自动保存和本机存储，把临时灵感整理成安静的个人写作空间。',
+    category: 'Utility',
+    tags: ['NOTE APP', 'LOCAL STORAGE', 'PRODUCTIVITY'],
+    year: '2026',
+    status: 'LIVE',
+    url: 'https://myx-note.netlify.app',
+    image: '/projects/note.jpg',
+    accent: '#f2764d',
+    imagePosition: 'center top',
+  },
 ]
