@@ -130,4 +130,20 @@ export const projects: Project[] = [
     accent: '#f2764d',
     imagePosition: 'center top',
   },
+  {
+    id: 'wnl',
+    index: '08',
+    title: '万年历',
+    englishTitle: 'Chinese Almanac Calendar',
+    description:
+      '一个中文万年历与黄历工具。整合公历、农历、节日、宜忌、星座运势、日期计算、择吉查询和节气信息，适合日常查阅与传统历法参考。',
+    category: 'Utility',
+    tags: ['CALENDAR', 'LUNAR DATE', 'ALMANAC'],
+    year: '2026',
+    status: 'LIVE',
+    url: 'https://myx-wnl.netlify.app',
+    image: '/projects/wnl.jpg',
+    accent: '#b93a36',
+    imagePosition: 'center top',
+  },
 ]
