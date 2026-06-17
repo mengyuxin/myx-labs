@@ -98,4 +98,20 @@ export const projects: Project[] = [
     accent: '#5fc6b2',
     imagePosition: 'center top',
   },
+  {
+    id: 'solar-system',
+    index: '06',
+    title: 'MYX Solar System',
+    englishTitle: '3D 实时轨道演示',
+    description:
+      '一个浏览器中的 3D 太阳系轨道演示。支持时间轴、模拟速度、标签显示、比例切换和天体导航，用交互方式观察行星运动。',
+    category: 'Creative',
+    tags: ['3D SIMULATION', 'ASTRONOMY', 'INTERACTIVE'],
+    year: '2026',
+    status: 'LIVE',
+    url: 'https://myx-solar.netlify.app',
+    image: '/projects/solar-system.jpg',
+    accent: '#f4c86a',
+    imagePosition: 'center top',
+  },
 ]
